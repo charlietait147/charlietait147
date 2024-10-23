@@ -2,11 +2,11 @@
 
 I am a full-stack developer with an educational background in Criminology and Cyber Security. 
 
-I embarked on BrainStation's Software Engineering Bootcamp in September 2023 and have applied my skills working as a freelance software engineer for Home EcoEarner, a start-up company that will provide renewable energy for domestic properties. I have continually developed their website, in designing the layout of pages, integrating a database to collect users' details and configuring DNS settings in deploying the website to the web.   
+I embarked on BrainStation's Software Engineering Bootcamp in September 2023 and have applied my skills working as a freelance software engineer for Home EcoEarner, a start-up company that will provide renewable energy for domestic properties. I continually developed their website, in designing the layout of pages, integrating a database to collect users' details and configuring DNS settings in deploying the website to the web.   
 
-- ❤️ I enjoy working with JavaScript, React, Next.js, Node.js, MySQL and SASS.
+- ❤️ I enjoy working with JavaScript, React, Next.js, Node.js, MySQL, SASS and Tailwind CSS.
 
-- 🌱 I’m currently learning Tailwind CSS to expand my design skillset.
+- 🌱 I’m currently learning Flutter and Firebase to expand my skills in mobile development.
 
 - 👀 I am curious about learning Jest in the future.
 
